@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>TypeScript.Compile</id>
+    <version>1.1.1</version>
+    <title>TypeScript Compile</title>
+    <authors>Martijn Muurman</authors>
+    <owners>Martijn Muurman</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Adds a afterbuild target so that included .ts files are compiled.</description>
+    <summary>Adds a afterbuild target so that included .ts files are compiled.</summary>
+    <releaseNotes>Target EcmaScript 5.
+Added sourcemap</releaseNotes>
+    <copyright>2013</copyright>
+    <language>en-US</language>
+    <tags>typescript compile</tags>
+  </metadata>
+</package>
